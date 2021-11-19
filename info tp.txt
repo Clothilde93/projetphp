@@ -7,3 +7,23 @@ php
 faire un cote administrateur 
 
 faire un retour mardi prochain sur le type de projet 
+
+Site esthétique multi-page :
+
+- prestations tarif et détail et durée 
+- Compte en ligne utilisateur :
+- > historique rdv
+- > prise de rdv
+- Compte admin
+- > planning avec tous les rdv avec association du personnel à affecter 
+- Rdv sans compte utilisateur
+- Rdv : définir prestation + choix de la personne
+
+Plan de site:
+
+- Page accueil 
+- Page authentification + modale création compte (mel)
+- Page compte utilisateur (données perso + historique presta + presta à venir avec possibilité modifier ou ajout presta) (clo)
+- Page compte administrateur (presta a venir avec possibilité modifier ou ajout presta + possibilité de chercher fiche client) (clo)
+- Page planning sans compte (mel)
+- Page contact / Accès (cedric)
